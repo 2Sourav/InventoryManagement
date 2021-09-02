@@ -1,6 +1,6 @@
 # InventoryManagement
-A concise IMS project by Sourav Sen
-Functionalities added:
+A concise IMS project by Sourav Sen. 
+   Functionalities added:
 1) Intially a 'records' dictionary has been created where details of 30 items already present in a shop are kept. Next a code to add a new item to the inventory(if needed)
  is also added.
 2) Next a code to print all the contents of the 'records' dictionary is written along with a code to check the details of a specific item if the user wants.
